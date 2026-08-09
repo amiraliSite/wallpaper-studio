@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e64c3128-05c7-4be5-be1a-3f6f37bef936" /># 🎨 Wallpaper Studio
+# 🎨 Wallpaper Studio
 
 > پلتفرم تغییر والپیپر واقعی موبایل با Next.js — پیش‌نمایش زنده، آیکون‌های واقعی و ذخیره تنظیمات
 
